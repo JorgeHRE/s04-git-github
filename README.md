@@ -1,6 +1,6 @@
-# Laboratorio 04: Flujo colaborativo con Git, GitHub y CI/CD
+# Laboratorio 04: Ecosistema Git y CI/CD para Equipos de Datos
 
-Repositorio de trabajo para la práctica de flujos colaborativos en ciencia de datos:
-- Gestión de issues y ramas de trabajo
-- Integración continua con GitHub Actions (Ruff + Pytest)
-- Protección de rama main y resolución de conflictos
+Repositorio oficial enfocado en:
+- Flujos de trabajo con ramas protegidas y GitHub Actions
+- Aseguramiento de calidad automatizado mediante Ruff y Pytest
+- Trazabilidad y resolución colaborativa de conflictos
