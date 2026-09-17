@@ -1,6 +1,6 @@
-# Laboratorio 04: Flujo colaborativo con Git, GitHub y CI/CD
+# Laboratorio 04: Ingeniería de Software y Reproducibilidad en Python
 
-Repositorio de trabajo para la práctica de flujos colaborativos en ciencia de datos:
-- Gestión de issues y ramas de trabajo
-- Integración continua con GitHub Actions (Ruff + Pytest)
-- Protección de rama main y resolución de conflictos
+Plataforma práctica orientada a:
+- Desarrollo guiado por pruebas (TDD) con Pytest
+- Formateo y análisis estático estricto con Ruff
+- Buenas prácticas de Conventional Commits y Pull Requests
